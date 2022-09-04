@@ -7,6 +7,16 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "directory": "https://github.com/NicolasR98/dnr-product-card",
+    "type": "git"
+  },
+  "keywords": [
+    "card",
+    "product",
+    "Nicolas",
+    "Rios"
+  ],
   "engines": {
     "node": ">=10"
   },
