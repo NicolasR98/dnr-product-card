@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on ProductTitle Should display correctly 1`] = `
+<span
+  className="productDescription undefined"
+>
+  Custom product
+</span>
+`;
+
+exports[`Tests on ProductTitle Should display correctly the product name 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee mug - No image
+  </span>
+</div>
+`;
